@@ -24,7 +24,7 @@ When done:
 
 `$ [sudo] npm install uglify-js -g`
 
-To uncompress `cookin.min.js`
+To uncompress `cooking.min.js`
 
 `$ uglifyjs cooking.min.js -b -o cooking.js`
 
