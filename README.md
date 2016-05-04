@@ -2,7 +2,7 @@
 
 > Using fragment shaders in WebGL to create an animated heat haze distortion effect on images.
 
-> DEMO: <a href="http://mduplinsky.me/projects/webgl-heat-effects">http://mduplinsky.me/projects/webgl-heat-effects</a>
+> DEMO: <a href="http://mduplinsky.me/projects/webgl-distortion-effects/">http://mduplinsky.me/projects/webgl-distortion-effects/</a>
 
 ## Usage
 
